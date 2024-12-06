@@ -7,42 +7,42 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 1,
             nombre: 'Camisa rosada de lino',
             precio: 250000,
-            imagen: 'Assets/img/img1.png',
+            imagen: 'assets/img/img1.png',
             categoria: 'camisas'
         },
         {
             id: 2,
             nombre: 'Camisa blanca de lino',
             precio: 150000,
-            imagen: 'Assets/img/img3.png',
+            imagen: 'assets/img/img3.png',
             categoria: 'camisas'
         },
         {
             id: 3,
             nombre: 'Camisa amarilla de Lino',
             precio: 250000,
-            imagen: 'Assets/img/img4.png',
+            imagen: 'assets/img/img4.png',
             categoria: 'camisas'
         },
         {
             id: 4,
             nombre: 'Camisa negra de tela',
             precio: 120000,
-            imagen: 'Assets/img/img5.png',
+            imagen: 'assets/img/img5.png',
             categoria: 'camisas'
         },
         {
             id: 5,
             nombre: 'Camisa morada de tela',
             precio: 120000,
-            imagen: 'Assets/img/img6.png',
+            imagen: 'assets/img/img6.png',
             categoria: 'camisas'
         },
         {
             id: 6,
             nombre: 'Camisa blanca de tela',
             precio: 120000,
-            imagen: 'Assets/img/img8.png',
+            imagen: 'assets/img/img8.png',
             categoria: 'camisas'
         }
     ];
